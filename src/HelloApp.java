@@ -3,7 +3,7 @@ public class HelloApp {
         if (args.length > 0) {
             System.out.println("Hello " + args[0]);
         } else {
-            System.out.println("Hello World");
+            System.out.println("Hello User");
         }
     }
 }
